@@ -1,0 +1,1 @@
+let count=1;document.getElementById("radio1").checked=!0,setInterval(function(){nextImage()},2e3);function nextImage(){count++,5<count&&(count=1),document.getElementById("radio"+count).checked=!0}
