@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ae06a9e-c7f2-4b20-8ca2-b2f2c3139771" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/@webpack-cli/configtest/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/@webpack-cli/configtest/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/@webpack-cli/configtest/lib/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/@webpack-cli/configtest/lib/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/@webpack-cli/configtest/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/@webpack-cli/configtest/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/@webpack-cli/configtest/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/@webpack-cli/configtest/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/@webpack-cli/info/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/@webpack-cli/info/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/@webpack-cli/info/lib/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/@webpack-cli/info/lib/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/@webpack-cli/info/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/@webpack-cli/info/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/@webpack-cli/info/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/@webpack-cli/info/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/@webpack-cli/serve/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/@webpack-cli/serve/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/@webpack-cli/serve/lib/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/@webpack-cli/serve/lib/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/@webpack-cli/serve/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/@webpack-cli/serve/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/@webpack-cli/serve/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/@webpack-cli/serve/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/interpret/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/interpret/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/interpret/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/interpret/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/interpret/cjs-stub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/interpret/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/interpret/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/interpret/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/interpret/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/rechoir/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/rechoir/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/rechoir/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/rechoir/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/rechoir/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/rechoir/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/rechoir/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/rechoir/lib/extension.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/rechoir/lib/extension.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/rechoir/lib/normalize.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/rechoir/lib/normalize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/rechoir/lib/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/rechoir/lib/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/rechoir/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/rechoir/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/webpack-cli/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/lib/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/webpack-cli/lib/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/webpack-cli/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/lib/plugins/cli-plugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/lib/plugins/cli-plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/lib/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/webpack-cli/lib/types.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/lib/webpack-cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/webpack-cli/lib/webpack-cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/esm.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/esm.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/lib/argument.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/lib/command.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/lib/error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/lib/help.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/lib/option.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/lib/suggestSimilar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/typings/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/webpack-cli/node_modules/commander/typings/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/webpack-cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../node_modules/webpack-cli/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/.idea/templates.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/Notas.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/Sobre mim.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/css/.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/css/estilo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/dados.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/homepage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../templates/js/estilo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../webpack.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2doPk3hRVGFRqEp5np6o5jxJt4s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/MEUPC/Desktop/el-tech"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ae06a9e-c7f2-4b20-8ca2-b2f2c3139771" name="Changes" comment="" />
+      <created>1710671605669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710671605669</updated>
+    </task>
+    <servers />
+  </component>
+</project>
