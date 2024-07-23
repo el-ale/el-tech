@@ -1,0 +1,8 @@
+[build]
+  publish = "build" # Diretório onde os arquivos de build são gerados
+  command = "npm run build" # Comando para construir o projeto
+
+[[redirects]]
+  from = "/*"
+  to = "/homepage.html"
+  status = 200
