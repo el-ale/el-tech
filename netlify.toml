@@ -1,5 +1,5 @@
 [build]
-  publish = "build" # Diretório onde os arquivos de build são gerados
+  publish = "dist" # Diretório onde os arquivos de build são gerados
   command = "npm run build" # Comando para construir o projeto
 
 [[redirects]]
