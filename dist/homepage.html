@@ -40,46 +40,27 @@
         <h1>Bem vindo(a) ao meu site!</h1>
         <br/>
         <br/>
-
-        <div class="slider">
-            <div class="slides">
-                <input type="radio" name="radio-btn" id="radio1"/>
-                <input type="radio" name="radio-btn" id="radio2"/>
-                <input type="radio" name="radio-btn" id="radio3"/>
-                <input type="radio" name="radio-btn" id="radio4"/>
-                <input type="radio" name="radio-btn" id="radio5"/>
-                <div class="slide first">
-                    <img src="images/ft1.png" alt="imagem 1"/>
-                </div>
-                <div class="slide">
-                    <img src="images/ft2.png" alt="imagem 2"/>
-                </div>
-                <div class="slide">
-                    <img src="images/ft3.png" alt="imagem 3"/>
-                </div>
-                <div class="slide">
-                    <img src="images/ft4.png" alt="imagem 4"/>
-                </div>
-                <div class="slide">
-                    <img src="images/ft5.png" alt="imagem 5"/>
-                </div>
-                #fim slide imagens#
-                <div class="navigation-auto">
-                    <div class="auto-btn1"></div>
-                    <div class="auto-btn2"></div>
-                    <div class="auto-btn3"></div>
-                    <div class="auto-btn4"></div>
-                    <div class="auto-btn5"></div>
-                </div>
-                <div class="manual-navigation">
-                    <label for="radio1" class="manual-btn"></label>
-                    <label for="radio2" class="manual-btn"></label>
-                    <label for="radio3" class="manual-btn"></label>
-                    <label for="radio4" class="manual-btn"></label>
-                    <label for="radio5" class="manual-btn"></label>
-                </div>
-            </div>
-    </div>
+        <div class="carrossel">
+        <div class="carrossel-inner">
+            <div class="carrossel-item active"><img src="/img/ft1.png" alt="Imagem 1"></div>
+            <div class="carrossel-item"><img src="/img/ft2.png" alt="Imagem 2"></div>
+            <div class="carrossel-item"><img src="/img/ft3.png" alt="Imagem 3"></div>
+            <div class="carrossel-item"><img src="/img/ft4.png" alt="Imagem 4"></div>
+            <div class="carrossel-item"><img src="/img/ft5.png" alt="Imagem 5"></div>
+        </div>
+        <div class="carrossel-controls">
+            <input type="radio" name="carrossel-control" id="control1" checked>
+            <label for="control1"></label>
+            <input type="radio" name="carrossel-control" id="control2">
+            <label for="control2"></label>
+            <input type="radio" name="carrossel-control" id="control3">
+            <label for="control3"></label>
+            <input type="radio" name="carrossel-control" id="control4">
+            <label for="control4"></label>
+            <input type="radio" name="carrossel-control" id="control5">
+            <label for="control5"></label>
+        </div>
+        </div>
         <div class="main-footer" style="background-color: black;
                                                  color: white;">
         <p2>Desenvolvido por Alejandro L.</p2>
