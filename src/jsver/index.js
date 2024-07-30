@@ -14,3 +14,4 @@ console.log('index.js is loaded');
 
 document.getElementById('app').innerText = 'Bem-vindo à Homepage!';
 import '../templates/css/estilo.css';
+import '../templates/css/responsivel.css';
