@@ -164,11 +164,19 @@ p {
 }
 
     .select1, .select2 {
-        margin: 20px;
+        width: 90%;
+        margin: 50px auto;
+        padding: 10px;
+    }
+
+    .select3 {
+    width: 80%;
+    margin-top: 20px; /* Ajuste o valor conforme necessário */
+    margin-bottom: 10px;
     }
 
     .select3 img {
-        max-width: 100%;
+        max-width: 80%;
         float: left;
     }
 
@@ -176,16 +184,17 @@ p {
         max-width: 40%;
         height: auto;
         display: block;
-        margin: 0 auto;
+        margin: 10px auto;
     }
 
     p {
         text-align: justify;
         margin: 15px 0;
-        font-size: 30px;
+        font-size: 18px;
         text-align: center;
         color: #fff;
-        width: 90%;
+        width: 110%;
+        margin: 0 auto 18px;
     }
 
     .sociais button {
@@ -224,10 +233,6 @@ p {
 
     .sociais {
         margin-top: 10px;
-    }
-
-    .select1, .select2 {
-        padding: 0 20px;
     }
 
     .main-footer {

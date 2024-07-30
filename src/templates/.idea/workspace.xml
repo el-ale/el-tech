@@ -6,11 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="4ae06a9e-c7f2-4b20-8ca2-b2f2c3139771" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../build/bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../build/homepage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dist/Notas.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dist/Notas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dist/Sobre mim.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dist/Sobre mim.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../dist/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../dist/fa29e95d579c24de806e.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../dist/fa29e95d579c24de806e.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../dist/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../dist/homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dist/images/fotoproz.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
