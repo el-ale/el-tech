@@ -91,6 +91,11 @@ h1 {
     height: 130px;
 }
 
+.select2 img {
+    width: 530px;
+    float: center;
+    height: 300px;
+}
 .select2 {
     margin-left: 70px;
     margin-top: 50px; /* Ajuste o valor conforme necessário */
