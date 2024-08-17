@@ -96,8 +96,14 @@ h1 {
     float: center;
     height: 300px;
 }
+.select2 p {
+    margin-left: 49px;
+}
+
+
 .select2 {
-    margin-left: 70px;
+    justify-content: center; /* Centraliza a imagem horizontalmente */
+    align-items: center;
     margin-top: 50px; /* Ajuste o valor conforme necessário */
     margin-bottom: 50px;
 }
@@ -168,11 +174,22 @@ p {
     margin: 20px 0;
 }
 
-    .select1, .select2 {
+    .select1 {
         width: 90%;
         margin: 50px auto;
-        padding: 10px;
+        padding: 7px;
     }
+
+    .select2 {
+        display: flex;
+        justify-content: center; /* Centraliza a imagem horizontalmente */
+        align-items: center; /* Centraliza a imagem horizontalmente */
+    }
+
+    .select2 img {
+        max-width: 100%; /* Garante que a imagem não exceda a largura da div */
+        height: auto; /* Mantém a proporção da imagem */
+        display: block;
 
     .select3 {
     width: 80%;
