@@ -155,10 +155,10 @@ p {
 /* Media Queries para dispositivos móveis */
 @media (max-width: 768px) {
     * {
-        margin: 0;
         padding: 0;
         box-sizing: border-box;
-    }
+        margin: 0;
+        }
 
     header {
         width: 100%; /* Ajusta a largura do cabeçalho para a tela */
@@ -190,6 +190,7 @@ p {
         max-width: 100%; /* Garante que a imagem não exceda a largura da div */
         height: auto; /* Mantém a proporção da imagem */
         display: block;
+    }
 
     .select3 {
     width: 80%;
